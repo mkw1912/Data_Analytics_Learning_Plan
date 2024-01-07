@@ -62,5 +62,7 @@ Peer Learning: Engage in peer reviews, group discussions, and collaborative proj
 Here are certificates we can acquire:
 
 https://www.coursera.org/professional-certificates/google-data-analytics?irclickid=TbFw5eWdLxyPUnKQaMTUsz0NUkH2z3wZJVBkQU0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2624140&utm_content=b2c
+Here are the downloaded videos:
+https://drive.google.com/file/d/1SSGS-gk42HDXj_9_twjlMq7LhfHzwHjF/view?usp=sharing
 
 https://www.comptia.org/certifications/data
